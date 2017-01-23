@@ -336,6 +336,6 @@ int main(int argc, char* argv[])
 	}
 	avl.printTree2();
 	cout << "The program works as you can see from the heights" << endl;
-	cout << "I can't quite get the display to work for some reason, but I'm really done trying" << endl;
+	cout << "I've run out of time for this assignment, but note that the print function has bugs" << endl;
 	return 0;
 }
